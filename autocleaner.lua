@@ -1,4 +1,4 @@
--- StarterPlayerScripts/AutoCleaner.client.lua
+-- StarterPlayerScripts/AutoCleaner.lua
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CollectionService = game:GetService("CollectionService")
